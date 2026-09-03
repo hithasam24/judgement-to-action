@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+
+# Environment & Secrets
+.env
+.env.local
+
+# Local Data & Uploads
+uploads/
+*.pdf
+*.log
+
+# Vector & DB Data
+qdrant_data/
+postgres_data/
+
+# IDE
+.vscode/
+.idea/
