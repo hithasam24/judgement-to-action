@@ -1,11 +1,6 @@
 ```markdown
 # Judgment-to-Action AI System ⚖️
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green)
-![LangGraph](https://img.shields.io/badge/LangGraph-AI_Agents-orange)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.0%2B-blue)
 
 An AI-driven pipeline designed to ingest unstructured, multi-page court judgment PDFs, extract key legal directives, and generate structured administrative action plans (Compliance, Appeal, No-Action). Built for government and enterprise legal departments, this system features a strict **Human-in-the-Loop (HITL)** verification layer to ensure 100% data reliability before reaching decision-makers.
 
